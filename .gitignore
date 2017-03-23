@@ -1,0 +1,15 @@
+# Eclipse
+bin/
+.settings/
+.project
+.classpath
+
+# Gradle
+.gradle/
+.build/
+
+# Java
+*.class
+
+# macOS
+.DS_Store
